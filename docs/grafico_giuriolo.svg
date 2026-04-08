@@ -2,7 +2,7 @@
 <rect width="100%" height="100%" fill="#ffffff"/>
 <style>text{font-family:Segoe UI,Arial,sans-serif;font-size:13px;fill:#1f2937}.titulo{font-size:22px;font-weight:700}.sub{fill:#6b7280}.eixo{stroke:#d1d5db;stroke-width:1}.grade{stroke:#e5e7eb;stroke-width:1}.linha{fill:none;stroke-width:2.5}.barra{opacity:.82}</style>
 <text class="titulo" x="32" y="34">Histórico Giuriolo - processo 704/2025</text>
-<text class="sub" x="32" y="53">Atualizado em 08/04/2026 14:01</text>
+<text class="sub" x="32" y="53">Atualizado em 08/04/2026 18:44</text>
 <text x="32" y="77" font-weight="700">Fila para marcação 704/2025</text>
 <text class="sub" x="840" y="77">último: 64 em 08/04/2026</text>
 <line class="eixo" x1="90" y1="205" x2="1065" y2="205"/>
@@ -15,29 +15,29 @@
 <text class="sub" x="90" y="227">24/02/2026</text>
 <text class="sub" text-anchor="end" x="1065" y="227">08/04/2026</text>
 <text x="32" y="247" font-weight="700">Fila para sentença</text>
-<text class="sub" x="840" y="247">último: 864 em 08/04/2026</text>
+<text class="sub" x="840" y="247">último: 863 em 08/04/2026</text>
 <line class="eixo" x1="90" y1="375" x2="1065" y2="375"/>
 <line class="eixo" x1="90" y1="250" x2="90" y2="375"/>
 <line class="grade" x1="90" y1="250" x2="1065" y2="250"/>
 <text class="sub" x="32" y="255">1151</text>
-<text class="sub" x="32" y="375">864</text>
-<path class="linha" stroke="#16a34a" d="M90.0,258.6 L112.7,258.6 L135.3,272.1 L158.0,272.1 L180.7,272.1 L203.4,272.1 L226.0,277.4 L248.7,280.4 L271.4,288.7 L294.1,288.7 L316.7,292.4 L339.4,292.4 L362.1,292.4 L384.8,293.5 L407.4,310.1 L430.1,341.6 L452.8,342.3 L475.5,348.0 L498.1,348.0 L520.8,348.0 L543.5,348.0 L566.2,350.2 L588.8,350.2 L611.5,351.4 L634.2,351.4 L656.9,351.4 L679.5,351.4 L702.2,351.4 L724.9,351.4 L747.6,351.4 L770.2,351.4 L792.9,355.1 L815.6,355.1 L838.3,355.1 L860.9,358.9 L883.6,363.4 L906.3,365.6 L929.0,366.0 L951.6,366.0 L974.3,366.0 L997.0,366.0 L1019.7,366.0 L1042.3,366.4 L1065.0,366.4"/>
+<text class="sub" x="32" y="375">863</text>
+<path class="linha" stroke="#16a34a" d="M90.0,258.6 L112.7,258.6 L135.3,272.1 L158.0,272.1 L180.7,272.1 L203.4,272.1 L226.0,277.3 L248.7,280.3 L271.4,288.6 L294.1,288.6 L316.7,292.3 L339.4,292.3 L362.1,292.3 L384.8,293.4 L407.4,309.9 L430.1,341.3 L452.8,342.1 L475.5,347.7 L498.1,347.7 L520.8,347.7 L543.5,347.7 L566.2,349.9 L588.8,349.9 L611.5,351.0 L634.2,351.0 L656.9,351.0 L679.5,351.0 L702.2,351.0 L724.9,351.0 L747.6,351.0 L770.2,351.0 L792.9,354.8 L815.6,354.8 L838.3,354.8 L860.9,358.5 L883.6,363.0 L906.3,365.3 L929.0,365.6 L951.6,365.6 L974.3,365.6 L997.0,365.6 L1019.7,365.6 L1042.3,366.0 L1065.0,366.4"/>
 <circle cx="1065.0" cy="366.4" r="4" fill="#16a34a"/>
 <text class="sub" x="90" y="397">24/02/2026</text>
 <text class="sub" text-anchor="end" x="1065" y="397">08/04/2026</text>
 <text x="32" y="417" font-weight="700">PROCEDIMENTO DEFINITO</text>
-<text class="sub" x="840" y="417">último: 1272 em 08/04/2026</text>
+<text class="sub" x="840" y="417">último: 1273 em 08/04/2026</text>
 <line class="eixo" x1="90" y1="545" x2="1065" y2="545"/>
 <line class="eixo" x1="90" y1="420" x2="90" y2="545"/>
 <line class="grade" x1="90" y1="420" x2="1065" y2="420"/>
-<text class="sub" x="32" y="425">1272</text>
+<text class="sub" x="32" y="425">1273</text>
 <text class="sub" x="32" y="545">1108</text>
-<path class="linha" stroke="#dc2626" d="M90.0,536.4 L112.7,536.4 L135.3,512.7 L158.0,512.7 L180.7,512.7 L203.4,512.7 L226.0,503.5 L248.7,498.3 L271.4,483.8 L294.1,483.8 L316.7,477.9 L339.4,477.9 L362.1,477.9 L384.8,475.9 L407.4,475.3 L430.1,462.8 L452.8,462.8 L475.5,462.8 L498.1,460.2 L520.8,460.2 L543.5,460.2 L566.2,456.2 L588.8,456.2 L611.5,454.2 L634.2,454.2 L656.9,454.2 L679.5,454.2 L702.2,454.2 L724.9,454.2 L747.6,454.2 L770.2,454.2 L792.9,447.7 L815.6,447.7 L838.3,447.7 L860.9,441.1 L883.6,433.9 L906.3,429.9 L929.0,429.3 L951.6,429.3 L974.3,429.3 L997.0,429.3 L1019.7,429.3 L1042.3,428.6 L1065.0,428.6"/>
+<path class="linha" stroke="#dc2626" d="M90.0,536.4 L112.7,536.4 L135.3,512.9 L158.0,512.9 L180.7,512.9 L203.4,512.9 L226.0,503.7 L248.7,498.5 L271.4,484.1 L294.1,484.1 L316.7,478.3 L339.4,478.3 L362.1,478.3 L384.8,476.3 L407.4,475.6 L430.1,463.2 L452.8,463.2 L475.5,463.2 L498.1,460.6 L520.8,460.6 L543.5,460.6 L566.2,456.7 L588.8,456.7 L611.5,454.7 L634.2,454.7 L656.9,454.7 L679.5,454.7 L702.2,454.7 L724.9,454.7 L747.6,454.7 L770.2,454.7 L792.9,448.2 L815.6,448.2 L838.3,448.2 L860.9,441.7 L883.6,434.5 L906.3,430.6 L929.0,429.9 L951.6,429.9 L974.3,429.9 L997.0,429.9 L1019.7,429.9 L1042.3,429.3 L1065.0,428.6"/>
 <circle cx="1065.0" cy="428.6" r="4" fill="#dc2626"/>
 <text class="sub" x="90" y="567">24/02/2026</text>
 <text class="sub" text-anchor="end" x="1065" y="567">08/04/2026</text>
 <text x="32" y="587" font-weight="700">Sentenças do dia</text>
-<text class="sub" x="840" y="587">último: 0 em 08/04/2026</text>
+<text class="sub" x="840" y="587">último: 1 em 08/04/2026</text>
 <line class="eixo" x1="90" y1="715" x2="1065" y2="715"/>
 <line class="eixo" x1="90" y1="590" x2="90" y2="715"/>
 <line class="grade" x1="90" y1="590" x2="1065" y2="590"/>
@@ -86,7 +86,7 @@
 <rect class="barra" x="989.4" y="715.0" width="15.1" height="1.0" fill="#7c3aed"><title>05/04/2026: 0</title></rect>
 <rect class="barra" x="1012.1" y="715.0" width="15.1" height="1.0" fill="#7c3aed"><title>06/04/2026: 0</title></rect>
 <rect class="barra" x="1034.8" y="712.7" width="15.1" height="2.3" fill="#7c3aed"><title>07/04/2026: 1</title></rect>
-<rect class="barra" x="1057.5" y="715.0" width="15.1" height="1.0" fill="#7c3aed"><title>08/04/2026: 0</title></rect>
+<rect class="barra" x="1057.5" y="712.7" width="15.1" height="2.3" fill="#7c3aed"><title>08/04/2026: 1</title></rect>
 <text class="sub" x="90" y="737">24/02/2026</text>
 <text class="sub" text-anchor="end" x="1065" y="737">08/04/2026</text>
 </svg>
